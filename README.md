@@ -25,6 +25,14 @@ OpenCare-Africa is a robust, scalable backend system for managing healthcare ope
 - **JWT Authentication**: Secure API authentication
 - **Health Checks**: System monitoring and diagnostics
 
+
+## How to Contribute
+We welcome contributions to OpenCare-Africa! To get started:
+- Fork the repository
+- - Create a new branch
+  - - Make your changes
+    - - Submit a pull request
+      - 
 ## 🏗️ Architecture
 
 ```
